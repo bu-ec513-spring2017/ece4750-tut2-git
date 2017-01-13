@@ -1,6 +1,0 @@
-apple
-mango
-orange
-melon
-
-blueberry
