@@ -1,5 +1,5 @@
 
-ECE 4750 Tutorial 2: Git Distributed Version Control System
+ECE 4750 (Cornell University) Tutorial 2: Git Distributed Version Control System
 ==========================================================================
 
 This repository contains source code for ECE 4750 Tutorial 2 on the Git
